@@ -1,10 +1,4 @@
 ## Analysis of Tesla EV Charging Stations in New York State
----
-## Team Members:  
-- **Bharath Reddy Pullagurla**, - **bpullagu@buffalo.edu** 
-- **Anirudh Korkonda Bhattar**, - **akorkond@buffalo.edu**
-- **Vineeth Siddigari**, - **vsiddiga@buffalo.edu**
-- **Chimmani Sri Harsh**, - **schimman@buffalo.edu**
 
 ---
 ## Task List
