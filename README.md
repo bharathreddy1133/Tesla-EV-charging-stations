@@ -132,6 +132,8 @@ print(df)
 We get the output for the raw data as below
 <img width="784" alt="#Fetching and Displaying Data from a JSON API using Pandas in Python" src="https://github.com/IE-555/final-project-PFA_Final/assets/124125241/bc299e40-4536-41f8-8a61-d55c48f50e7b">
 
+We get the output for the raw data as below
+<img width="784" alt="#Fetching and Displaying Data from a JSON API using Pandas in Python" src="https://github.com/IE-555/final-project-PFA_Final/blob/main/assets/124125241/bc299e40-4536-41f8-8a61-d55c48f50e7b.png">
 
 Extracting and Displaying Electric Vehicle Charging Station Data from a CSV file Using Pandas (Filtering)
 
