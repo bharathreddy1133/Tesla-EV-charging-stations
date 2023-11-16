@@ -133,6 +133,7 @@ We get the output for the raw data as below
 <img width="784" alt="#Fetching and Displaying Data from a JSON API using Pandas in Python" src="https://github.com/IE-555/final-project-PFA_Final/assets/124125241/bc299e40-4536-41f8-8a61-d55c48f50e7b">
 
 
+
 Extracting and Displaying Electric Vehicle Charging Station Data from a CSV file Using Pandas (Filtering)
 
 - The script starts by importing the pandas and requests libraries. Then, it sets the URL of the dataset we want to use to a variable called url.
@@ -165,6 +166,7 @@ print(df["Station Name"].dropna())
 print()
 
 ```
+<img width="797" alt="#Extracting and filtering New York State Ev Stations Dataset" src="https://github.com/IE-555/final-project-PFA_Final/assets/124125241/cf46f203-879a-4821-b108-5854a533a321">
 <img width="797" alt="#Extracting and filtering New York State Ev Stations Dataset" src="https://github.com/IE-555/final-project-PFA_Final/assets/124125241/cf46f203-879a-4821-b108-5854a533a321">
 
 
