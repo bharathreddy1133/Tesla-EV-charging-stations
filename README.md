@@ -166,7 +166,7 @@ print()
 
 ```
 <img width="797" alt="#Extracting and filtering New York State Ev Stations Dataset" src="https://github.com/IE-555/final-project-PFA_Final/assets/124125241/cf46f203-879a-4821-b108-5854a533a321">
-<img width="797" alt="#Extracting and filtering New York State Ev Stations Dataset" src="assets/124125241/cf46f203-879a-4821-b108-5854a533a321">
+
 
 Loading Census Population Data from a URL using Pandas in Python
 
